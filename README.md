@@ -1,4 +1,4 @@
-# Cybersecurity AI (`CAI`)
+# Cybersecurity AI (`CAI`) 
 
 <div align="center">
   <p>
